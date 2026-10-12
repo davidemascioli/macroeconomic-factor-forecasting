@@ -1,0 +1,55 @@
+License scope and third-party materials
+======================================
+
+The MIT License below applies only to original contributions by Davide
+Mascioli, including the original forecasting, model-selection and evaluation
+code and original explanatory text.
+
+It does not apply to:
+- FRED-MD data, including 2024-05.csv and 2026-09-MD.csv;
+- code adapted from the MATLAB routines distributed with FRED-MD by
+  Michael W. McCracken and Serena Ng, including prepare_missing, transxf,
+  remove_outliers, factors_em, baing, pc2, transform_data and mrsq, or
+  adaptations of those routines under other names;
+- any other third-party material.
+
+No permission to use, modify or redistribute third-party materials is granted
+by this file. Attribution does not replace permission.
+
+FRED-MD source:
+https://www.stlouisfed.org/research/economists/mccracken/fred-databases
+
+Source terms:
+https://www.stlouisfed.org/about-us/legal-information
+https://fred.stlouisfed.org/legal/
+
+No explicit redistribution or open-source license was found in the official
+FRED-MD MATLAB archive reviewed for this project. Permission to publicly
+redistribute its adapted routines must therefore be clarified with the
+rights holders. Redistribution rights for the complete CSV snapshots must
+also be verified against the applicable source and series-specific terms.
+This file does not represent that those permissions have been obtained.
+
+MIT License
+===========
+
+Copyright (c) 2026 Davide Mascioli
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the original contributions covered by this license (the "Software"), to
+deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
